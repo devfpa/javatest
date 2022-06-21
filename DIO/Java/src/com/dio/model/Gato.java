@@ -81,6 +81,10 @@ public class Gato {
 		return "Gato [nome=" + nome + ", cor=" + cor + ", idade=" + idade + "]";
 	}
 
+	public static void main(String[] args) {
+		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
+	}
+
 	/*
 	 * blic Gato(String nome, String cor, Integer idade) { this.nome= nome;
 	 * this.cor= cor; this.idade = idade; }
